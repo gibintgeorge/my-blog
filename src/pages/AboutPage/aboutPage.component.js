@@ -1,9 +1,9 @@
 import React from "react";
 
-const HomePage = () => {
+const AboutPage = () => {
   return (
     <React.Fragment>
-      <h1>Hi, Welcome to my react Blog: HomePage</h1>
+      <h1>About</h1>
       <p>
         Velit magna eu dolore aliquip minim pariatur exercitation voluptate.
         Veniam esse elit non aliquip enim id mollit mollit. Labore ut proident
@@ -31,4 +31,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default AboutPage;
